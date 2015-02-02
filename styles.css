@@ -3,7 +3,21 @@ nav ul li {
 	display: inline;
 	list-style: none;
 }
-
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+dl {
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 1;
+    margin-right: 1;
+}
+	
+}
 .active {
 	font-weight: bold
 }
