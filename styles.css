@@ -31,7 +31,10 @@ dl {
 }
 	#bio-photo {
     float: left;
-	height: 150px;
+	height: 100px;
+	padding: 10px;
+	margin: 20px;
+	text-align: center;
 }
 
 .poem {
